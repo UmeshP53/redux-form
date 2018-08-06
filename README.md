@@ -1,14 +1,19 @@
 Setting up the project in remote machine::
 ==========================================
-1: When you need to copy the project, you don't have to copy whole project folder but copy only:
-    1: `src` folder
-    2: `.babelrc` file
-    3: `package.json` file
-    4: `webpack.config.js` file
-    5: `readme.md` file
+<ol>
+    <li>When you need to copy the project, you don't have to copy whole project folder but copy only:</ol>
+        <ul>
+            <li>`src` folder</li>
+            <li>`.babelrc` file</li>
+            <li>`package.json` file</li>
+            <li>`webpack.config.js` file</li>
+            <li>`readme.md` file</li>
+        </ul>
+    </li>
 2: Run `npm install`.
 3: Run `npm run watch` to create `index.html` and `main.js` bundled JS file.
 4: Run `npm start` to start the `webpack-dev-server`
+</ol>
 
 If you wish to change the port number of the localhost:
 =======================================================
