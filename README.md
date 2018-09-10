@@ -7,10 +7,10 @@
 - `webpack.config.js` file
 - `readme.md` file
 
-2: Run `npm install`.
-3: Run `npm run watch` to create `index.html` and `main.js` bundled JS file.
-4: Run `npm start` to start the `webpack-dev-server`
-</ol>
+2. Run `npm install`.
+3. Run `npm run watch` to create `index.html` and `main.js` bundled JS file.
+4. Run `npm start` to start the `webpack-dev-server`
+
 
 If you wish to change the port number of the localhost:
 =======================================================
