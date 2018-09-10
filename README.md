@@ -4,7 +4,7 @@ When you need to copy the project, you don't have to copy whole project folder b
 - `src` folder
 - `.babelrc` file
 - `package.json` file
-- `webpack.config.js` fil
+- `webpack.config.js` file
 - `readme.md` file
 
 2: Run `npm install`.
