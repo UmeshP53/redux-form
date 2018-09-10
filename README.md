@@ -1,6 +1,6 @@
 ## Setting up the project in remote machine::
 
-When you need to copy the project, you don't have to copy whole project folder but copy only:
+1. When you need to copy the project, you don't have to copy whole project folder but copy only:
 - `src` folder
 - `.babelrc` file
 - `package.json` file
