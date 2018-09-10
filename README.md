@@ -1,11 +1,11 @@
 ## Setting up the project in remote machine::
 
 1. When you need to copy the project, you don't have to copy whole project folder but copy only:
-- `src` folder
-- `.babelrc` file
-- `package.json` file
-- `webpack.config.js` file
-- `readme.md` file
+  - `src` folder
+  - `.babelrc` file
+  - `package.json` file
+  - `webpack.config.js` file
+  - `readme.md` file
 
 2. Run `npm install`.
 3. Run `npm run watch` to create `index.html` and `main.js` bundled JS file.
